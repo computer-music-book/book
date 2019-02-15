@@ -1,5 +1,4 @@
-# Computação Musical: Uma introdução gentil
-
+# Computação Musical: Uma gentil introdução
 
 ## How to build this book?
 
