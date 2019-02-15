@@ -1,0 +1,6 @@
+[preface]
+= Example Preface
+Optional preface.
+
+== Preface Sub-section
+Preface sub-section body.
