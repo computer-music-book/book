@@ -1,6 +1,27 @@
 [preface]
-= Example Preface
+= Preface
 Optional preface.
 
-== Preface Sub-section
+== How to Use This Book
 Preface sub-section body.
+
+== Intended Audience
+Preface sub-section body.
+
+== Conventions Used in This Book
+Preface sub-section body.
+
+== Code Examples
+Preface sub-section body.
+
+== How to Contact Us
+Preface sub-section body.
+
+== Acknowledgments by Flavio
+Preface sub-section body.
+
+== Acknowledgments by Beraldo
+Preface sub-section body.
+
+== Contributions
+List of all contributors
