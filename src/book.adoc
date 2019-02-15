@@ -1,0 +1,10 @@
+= Computação Musical: Uma introdução gentil
+Flávio Luiz Schiavoni, Beraldo Leal
+:doctype: book
+:pdf-page-size: A4
+:imagesdir: ../assets/images
+:front-cover-image: image:cover.pdf[Front Cover,1050,1600]
+
+include::./chapters/00-urls.adoc[]
+
+include::./chapters/01-introducao.adoc[]

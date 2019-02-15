@@ -1,0 +1,80 @@
+font:
+  catalog:
+    Ubuntu:
+      normal: Ubuntu-R.ttf
+      italic: Ubuntu-I.ttf
+      bold: Ubuntu-B.ttf
+      bold_italic: Ubuntu-BI.ttf
+
+base:
+  font:
+    color: #888
+    family: Ubuntu
+    size: 12
+    size_small: 10
+
+  align: justify
+  line:
+    height: 1.75
+
+link:
+  font:
+    color: #299ade
+
+brand:
+    color: #883997
+
+title:
+  page:
+    image: logo.png[width=250,align=center]
+    title:
+      font:
+        color: $brand_color
+
+heading:
+  h2:
+    font:
+      color: $brand_color
+  margin:
+    bottom: 25
+
+footer:
+  font_size: $base_font_size_small
+  font_color: ffffff
+  background_color: $brand_color
+  # NOTE if background_color is set, background and border will span width of page
+  #border_color: dddddd
+  border_width: 0
+  height: $base_line_height_length * 2
+  line_height: 1
+  #padding: [$base_line_height_length / 2, 1, 0, 1]
+  vertical_align: middle
+  #image_vertical_align: <alignment> or <number>
+  # additional attributes for content:
+  # * {page-count}
+  # * {page-number}
+  # * {document-title}
+  # * {document-subtitle}
+  # * {chapter-title}
+  # * {section-title}
+  # * {section-or-chapter-title}
+  recto:
+    #columns: "<50% =0% >50%"
+    right:
+      content: '{page-number}'
+      #content: '{section-or-chapter-title} | {page-number}'
+      #content: '{document-title} | {page-number}'
+    #center:
+    #  content: '{page-number}'
+    left:
+      content: '{document-title}'
+
+  verso:
+    #columns: $footer_recto_columns
+    right:
+      content: '{author}'
+    left:
+      content: $footer_recto_right_content
+      #content: '{page-number} | {chapter-title}'
+    #center:
+    #  content: '{page-number}'
