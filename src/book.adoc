@@ -1,7 +1,10 @@
 = Computação Musical: Uma introdução gentil
-Flávio Luiz Schiavoni, Beraldo Leal
+:author: Flávio L. Schiavoni, Beraldo C. Leal
 :doctype: book
-:pdf-page-size: A4
+:toc:
+:toclevels: 6
+:media: prepress
+:pdf-page-size: 8in x 9in
 :imagesdir: ../assets/images
 :front-cover-image: image:cover.pdf[Front Cover,1050,1600]
 
