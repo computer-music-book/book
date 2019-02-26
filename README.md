@@ -1,5 +1,3 @@
- [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
 # Computação Musical: Uma gentil introdução
 
 Este livro pretende reunir de forma didática os principais conceitos envolvidos
@@ -24,6 +22,8 @@ corrigir, melhorar e enviar sugestões.  Use as "issues" do Github para abrir
 issues ou tirar dúvidas sobre o projeto.
 
 ## Licença
+
+ [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 Este livro é disponibilizado sob os termos da licença "CC BY-SA 4.0
 International". Você tem o direito de *Compartilhar* (copiar e redistribuir o
