@@ -1,0 +1,13 @@
+= Parte III: Sinais
+
+== Sinais periódicos
+
+== Ruído
+
+== Silêncio
+
+== Interpolacão
+
+== Oscilador por consulta a tabela
+
+== Brincadeira da Parte III

@@ -1,0 +1,11 @@
+= Parte VI: Análise de som
+
+== Music Information Retrieval
+
+== Identificacão de frequências
+
+== Identificacão de onsets
+
+== Identificacão de timbres e instrumentos
+
+== Brincadeira da Parte VI

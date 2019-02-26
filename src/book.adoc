@@ -31,4 +31,18 @@ include::./chapters/00-urls.adoc[]
 
 include::./chapters/01-preface.adoc[]
 
-include::./chapters/02-introduction.adoc[]
+include::./chapters/02-part01.adoc[]
+
+include::./chapters/03-part02.adoc[]
+
+include::./chapters/04-part03.adoc[]
+
+include::./chapters/05-part04.adoc[]
+
+include::./chapters/06-part05.adoc[]
+
+include::./chapters/07-part06.adoc[]
+
+include::./chapters/10-glossario.adoc[]
+
+include::./chapters/20-referencias.adoc[]

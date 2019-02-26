@@ -1,0 +1,9 @@
+= Parte II: Representacão musical digital
+
+== Representacão de música simbólica
+
+== Representacão do áudio digital
+
+== Tempo discreto ou tempo real (Áudio e MIDI)
+
+== Brincadeira da parte II

@@ -1,0 +1,9 @@
+= Parte V: Efeitos Digitais
+
+== Tipos de efeitos
+
+== Dinâmicos
+
+== Filtros
+
+== Espacializacão
