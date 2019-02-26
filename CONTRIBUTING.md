@@ -1,4 +1,4 @@
-# Como Contribuir?
+# Como contribuir?
 
 Este livro esta sendo desenvolvido de forma colaborativa e aberta, aqui no
 GitHub. Nós aceitamos comentários, contribuições e correções em geral.
