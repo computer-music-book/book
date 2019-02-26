@@ -1,5 +1,9 @@
 # Computação Musical: Uma gentil introdução
 
+Este livro pretende reunir de forma didática os principais conceitos envolvidos
+nos elementos musicais por meio do computador. Caso você queira contribuir com
+o projeto leia o arquivo `CONTRIBUTING.md`.
+
 ## Como compilar este livro?
 
 Após instalar o pacote `asciidoctor-pdf`, execute o comando abaixo:
@@ -10,6 +14,12 @@ $ python3 make.py
 ## Autores
 
 Veja a lista completa de autores em `AUTHORS.md`
+
+## Aviso
+
+Este é um trabalho colaborativo e em constante evolução. Sinta-se livre para
+corrigir, melhorar e enviar sugestões.  Use as "issues" do Github para abrir
+issues ou tirar dúvidas sobre o projeto.
 
 ## Licença
 
@@ -29,10 +39,3 @@ de caráter tecnológico que restrinjam legalmente outros de fazerem algo que a
 licença permita.
 
 Para maiores detalhes sobre o licenciamento, veja o arquivo `LICENSE.md`.
-
-
-## Aviso
-
-Este é um trabalho colaborativo e em constante evolução. Sinta-se livre para
-corrigir, melhorar e enviar sugestões.  Use as "issues" do Github para abrir
-issues ou tirar dúvidas sobre o projeto.
