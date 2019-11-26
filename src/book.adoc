@@ -7,7 +7,7 @@
 :pdf-page-size: 8in x 9in
 :imagesdir: ../assets/images
 :front-cover-image: image:cover.pdf[Front Cover,1050,1600]
-
+:icons: font
 == LICENSE
 
 This copy is licensed under the _Creative Commons Attribution-Share Alike 4.0

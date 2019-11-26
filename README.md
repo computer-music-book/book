@@ -6,7 +6,15 @@ o projeto leia o arquivo `CONTRIBUTING.md`.
 
 ## Como compilar este livro?
 
-Após instalar o pacote `asciidoctor-pdf`, execute o comando abaixo:
+Após instalar o pacote `asciidoctor-pdf`,
+
+```
+$ sudo apt install ruby
+$ sudo gem install asciidoctor-pdf --pre
+```
+
+
+execute o comando abaixo:
 
 ```
 $ python3 make.py
