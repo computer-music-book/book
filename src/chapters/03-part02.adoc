@@ -1,9 +1,56 @@
-= Parte II: Representacão musical digital
+== Parte II: Representacão musical digital
 
-== Representacão de música simbólica
+=== Representacão de música simbólica
 
-== Representacão do áudio digital
+==== MIDI
 
-== Tempo discreto ou tempo real (Áudio e MIDI)
+==== Outras representações
 
-== Brincadeira da parte II
+=== Representacão do áudio digital
+
+==== Taxa de amostragem (Bit rate)
+
+==== Quantização (Bit depth)
+
+==== Codificação
+
+==== Notação de sinais
+
+==== Amplitude
+
+==== Relação sinal / ruído
+
+==== Shannon Nyquist
+
+==== Conversão analógico digital e digital analógico
+
+==== Aliasing
+
+==== Rebatimento
+
+==== Representação Visual
+
+=== Tempo discreto ou tempo real (Áudio e MIDI)
+
+==== Microfone / Altifalante
+
+- Frames
+- Bloco
+- Device e drivers
+
+==== Arquivo
+
+- Formatos: Wav, mp3, flac, etc..
+
+
+=== Brincadeira da parte II
+
+- Como abrir um device para leitura e escrita
+- Como abrir um arquivo para leitura
+- Criar composições concatenando arquivos
+- APIs / Bibliotecas
+    * Libsoundfile
+    * Portaudio
+    * PortMIDI
+    * ALSA
+

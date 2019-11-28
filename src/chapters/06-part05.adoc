@@ -1,9 +1,19 @@
-= Parte V: Efeitos Digitais
+== Parte V: Efeitos Digitais
 
-== Tipos de efeitos
+=== Tipos de efeitos
 
-== Dinâmicos
+=== Dinâmicos
 
-== Filtros
+- Compressor
+- Noise Gate
+- Expander
+- Ducker
 
-== Espacializacão
+=== Filtros
+
+- Equalizadores
+- Passa alta
+- Passa baixa
+- Notch
+
+=== Espacializacão

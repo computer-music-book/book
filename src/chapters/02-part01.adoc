@@ -15,10 +15,39 @@ include::../tips/tip1.adoc[]
 
 === Interdisciplinaridade
 
+Relação com outras áreas:
+
+- Acústica e Arquitetura
+- Música e composição
+- Psicologia musicoterapia
+- Engenharia Elétrica
+- Telecomunicações
+- Computação
+
+
 === História das tecnologias musicais
+
+Ishkur Guide to Electronic Music
+
 
 === Definicão de som, audio e audio digital
 
 === Propriedades do som
 
+* Propriedades do som e relações cognitivas
+    - Duração
+    - Altura
+    - Dinâmica
+    - Timbre
+* Sistema temperado e Notas musicais
+* Intervalos
+* Percepção de altura (psicoacústica)
+
+
 === Visão do campo hoje: Congressos, revistas, cursos, etc.
+
+.Lightweight Markup
+****
+Writing languages that let you type less and express more.
+****
+
