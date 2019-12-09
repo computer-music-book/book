@@ -1,0 +1,71 @@
+KX studio https://kxstudio.linuxaudio.org/
+AV Linux http://www.bandshed.net/avlinux/
+Ubuntu Studio https://ubuntustudio.org/
+
+Editores de áudio
+Audacity https://en.wikipedia.org/wiki/Audacity_(audio_editor)
+Rezound
+
+Editores de MIDI / partitura
+Musescore
+Lilypond
+ABC http://abcnotation.com/
+MusicXML https://www.musicxml.com
+
+Driver de som
+ALSA
+
+Sequencers
+Hydrogen
+Seq24
+Rosegarden
+
+Servidores de som
+Jack Audio Connection Kit
+Pulse audio
+
+Conectores / patch bay
+Patchage
+Aconnect / aconnectgui
+qjackctl
+
+Sintetizadores
+amSynth
+AMS - Alsa Modular Synth
+DSSI - plugins
+Zynadd / Yoshimi
+Swami + Qsynth
+Bristol http://bristol.sourceforge.net/
+
+DAW
+LMMS Linux MultiMedia Studio 
+Non (Mixer, Session Manager, timeline, sequencer)
+Ardour
+Ecasound
+Qtractor
+
+Efeitos
+LADSPA - Plugins
+LV2 - Plugins
+Guitarrix
+Carla
+
+Linguagens de programação musical
+Pure Data
+CSound https://csound.com/
+FAUST
+Supercollider https://supercollider.github.io/
+
+Controladores
+Vkeybd
+
+Análise de som
+Sonic Visualiser
+Loop station
+Sooperlooper
+Áudio em rede
+Jacktrip
+Ainda não sei o que faz :-)
+Cecilia
+Acmus
+

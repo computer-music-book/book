@@ -1,0 +1,18 @@
+[TIP]
+It's possible to use Unicode glyphs as admonition icons.
+
+[NOTE]
+Asciidoctor supports font-based admonition icons, powered by Font Awesome!
+
+
+[CAUTION]
+Asciidoctor supports font-based admonition icons, powered by Font Awesome!
+
+
+[IMPORTANT]
+Asciidoctor supports font-based admonition icons, powered by Font Awesome!
+
+
+[WARNING]
+Asciidoctor supports font-based admonition icons, powered by Font Awesome!
+

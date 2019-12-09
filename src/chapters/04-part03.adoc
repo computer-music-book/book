@@ -1,13 +1,29 @@
-= Parte III: Sinais
+== Parte III: Sinais
 
-== Sinais periódicos
+=== Sinais periódicos
 
-== Ruído
+- Onda quadrada
+- Triangular
+- Dente de serra
+- Senóide
+- Outras implementações
 
-== Silêncio
 
-== Interpolacão
+=== Ruído
 
-== Oscilador por consulta a tabela
+=== Silêncio
 
-== Brincadeira da Parte III
+=== Interpolacão
+
+- Linear
+- Quadrática
+- Cúbica
+
+
+=== Oscilador por consulta a tabela
+
+=== Brincadeira da Parte III
+
+- Gerar arquivos com ruído e silêncio e frequências.
+- Gerar saídas de som
+

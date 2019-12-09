@@ -1,0 +1,5 @@
+[source,python]
+----
+import os
+print ("%s" %(os.uname()))
+----

@@ -1,7 +1,38 @@
-= Parte IV: Instrmentos
+== Parte IV: Instrmentos
 
-== Instrumentos tradicionais
+=== Instrumentos tradicionais
 
-== O instrmento digital (tripartite)
+=== O instrumento digital (tripartite)
 
-== Brincadeira da Parte IV
+==== Sintetizador
+
+- Timbre e características timbrísticas
+- Espectrograma
+- Visualização de envelopes
+- Envelopes
+    * ADSR
+    * AR
+    * Outros
+- Síntese
+    * Síntese aditiva
+    * Síntese subtrativa
+        - Teoria rápida de Filtros
+    * Síntese AM
+    * Modulação em Anel
+    * Síntese FM
+    * Síntese PM 
+    * Modelagem física
+        -  Karplus Strong
+
+==== Interface
+
+- Controladores
+- Sequencer
+
+==== Mapeamento
+
+
+=== Brincadeira da Parte IV
+
+Exemplos de projeto de instrumento
+
